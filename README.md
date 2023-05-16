@@ -11,6 +11,8 @@
 
 
 
+
+
 Flipkart is one of the most popular Indian companies. It is an e-commerce platform that competes with popular e-commerce platforms like Amazon. One of the most popular use cases of data science is the task of sentiment analysis of product reviews sold on e-commerce platforms. So for today our product is mentioned as below:
 
 Product Name : boAt Rockerz 255 Bluetooth Wireless in Ear Earphones with Mic
@@ -37,7 +39,7 @@ pip install pandas
 
 
 # Usage
-The project contains a Jupyter notebook file Flipkart Sentiment Analysis.ipynb that walks through the entire sentiment analysis process step-by-step. To run the notebook, navigate to the project directory in your terminal and run:
+The project contains a Jupyter notebook file Flipkart_Sentimental_Analysis_Review.ipynb that walks through the entire sentiment analysis process step-by-step. To run the notebook, navigate to the project directory in your terminal and run:
 
 jupyter notebook
 
@@ -45,7 +47,7 @@ jupyter notebook
 
 Then open the notebook file and follow the instructions.
 
-The data used for sentiment analysis can be found in the data folder. It contains a CSV file flipkart_reviews.csv that contains customer reviews data for various products sold on Flipkart.
+The data used for sentiment analysis can be found in the data folder. It contains a CSV file reviews.csv that contains customer reviews data for various products sold on Flipkart.
 
 
 
